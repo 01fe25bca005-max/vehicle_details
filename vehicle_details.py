@@ -12,3 +12,5 @@ else :
 print("Vechile type:",vehicle)
 print("No of hour:",hour)
 print("Total fees:",fee) 
+
+print("Thank you for using our service")
